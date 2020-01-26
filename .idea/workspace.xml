@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SocketProgramming" targetName="Networkingx64" />
+      <config projectName="SocketProgramming" targetName="Networkingx86" />
+      <config projectName="SocketProgramming" targetName="SocketProgrammingx64" />
+      <config projectName="SocketProgramming" targetName="SocketProgrammingx86" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Release-Visual Studio x64" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio x64" GENERATION_OPTIONS="-m64" GENERATION_DIR="cmake-build-release-visual-studio-x64" />
+      <configuration PROFILE_NAME="Release-Visual Studio x86" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio x86" GENERATION_OPTIONS="-m32" GENERATION_DIR="cmake-build-release-visual-studio-x86" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09b489b2-0f77-4113-ac3d-316afa9be3bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release-Visual Studio x64" />
+  <component name="ProjectId" id="1U7SO5kfu3SJ3YK1wGhe8i8NWd1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-release-visual-studio-x64" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Alp\C++ Alan\SocketProgramming\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.SocketProgrammingx64">
+    <configuration name="Networking" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-m64" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SocketProgramming" TARGET_NAME="Networking" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Networkingx64" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SocketProgramming" TARGET_NAME="Networkingx64" CONFIG_NAME="Release-Visual Studio x64">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Networkingx86" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SocketProgramming" TARGET_NAME="Networkingx86" CONFIG_NAME="Release-Visual Studio x64">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketProgrammingx64" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SocketProgramming" TARGET_NAME="SocketProgrammingx64" CONFIG_NAME="Release-Visual Studio x64" RUN_TARGET_PROJECT_NAME="SocketProgramming" RUN_TARGET_NAME="SocketProgrammingx64">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketProgrammingx86" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SocketProgramming" TARGET_NAME="SocketProgrammingx86" CONFIG_NAME="Release-Visual Studio x64" RUN_TARGET_PROJECT_NAME="SocketProgramming" RUN_TARGET_NAME="SocketProgrammingx86">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="Networkingx64" type="CMakeRunConfiguration" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Networking" />
+      <item itemvalue="CMake Application.Networkingx64" />
+      <item itemvalue="CMake Application.Networkingx86" />
+      <item itemvalue="CMake Application.SocketProgrammingx64" />
+      <item itemvalue="CMake Application.SocketProgrammingx86" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09b489b2-0f77-4113-ac3d-316afa9be3bb" name="Default Changelist" comment="" />
+      <created>1567860958599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567860958599</updated>
+      <workItem from="1567860960445" duration="28009000" />
+      <workItem from="1567943038991" duration="3534000" />
+      <workItem from="1568466288525" duration="6594000" />
+      <workItem from="1568497165250" duration="34000" />
+      <workItem from="1568497219416" duration="5656000" />
+      <workItem from="1568506554235" duration="8184000" />
+      <workItem from="1568557508405" duration="275000" />
+      <workItem from="1568558489878" duration="2642000" />
+      <workItem from="1570018492317" duration="935000" />
+      <workItem from="1570058498847" duration="2270000" />
+      <workItem from="1570123627846" duration="6492000" />
+      <workItem from="1570283377469" duration="5619000" />
+      <workItem from="1574704806702" duration="943000" />
+      <workItem from="1574706115468" duration="224000" />
+      <workItem from="1574706368746" duration="13699000" />
+      <workItem from="1574783892907" duration="7235000" />
+      <workItem from="1574860504234" duration="3379000" />
+      <workItem from="1574952323302" duration="21703000" />
+      <workItem from="1575033429231" duration="4527000" />
+      <workItem from="1575458849908" duration="1383000" />
+      <workItem from="1576147882494" duration="22896000" />
+      <workItem from="1576273993858" duration="1502000" />
+      <workItem from="1576362360362" duration="2731000" />
+      <workItem from="1576882901982" duration="8960000" />
+      <workItem from="1576958464518" duration="1884000" />
+      <workItem from="1577018133863" duration="1960000" />
+      <workItem from="1577021841001" duration="34346000" />
+      <workItem from="1577108754629" duration="10135000" />
+      <workItem from="1577184231119" duration="1737000" />
+      <workItem from="1577187843840" duration="3682000" />
+      <workItem from="1577359337979" duration="9285000" />
+      <workItem from="1578079428341" duration="306000" />
+      <workItem from="1578080811737" duration="11918000" />
+      <workItem from="1578180327113" duration="6251000" />
+      <workItem from="1578445516811" duration="332000" />
+      <workItem from="1578445881404" duration="269000" />
+      <workItem from="1578448261935" duration="9909000" />
+      <workItem from="1578596216362" duration="19971000" />
+      <workItem from="1578657211851" duration="13434000" />
+      <workItem from="1578699131357" duration="782000" />
+      <workItem from="1578699961138" duration="730000" />
+      <workItem from="1578701162053" duration="826000" />
+      <workItem from="1578704126266" duration="1683000" />
+      <workItem from="1578706512012" duration="1938000" />
+      <workItem from="1578746239827" duration="1007000" />
+      <workItem from="1578749680766" duration="2814000" />
+      <workItem from="1578776235941" duration="2274000" />
+      <workItem from="1578783991124" duration="1405000" />
+      <workItem from="1578838050764" duration="23048000" />
+      <workItem from="1579108521124" duration="14312000" />
+      <workItem from="1579194335889" duration="14241000" />
+      <workItem from="1579372822816" duration="9857000" />
+      <workItem from="1579742149260" duration="175000" />
+      <workItem from="1579745265700" duration="2017000" />
+      <workItem from="1579835006797" duration="397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579835287843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579835287843" />
+    <state x="170" y="152" key="FileChooserDialogImpl" timestamp="1579835104484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="170" y="152" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579835104484" />
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom" timestamp="1579835412420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579835412420" />
+    <state width="1323" height="118" key="GridCell.Tab.0.center" timestamp="1579835412419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579835412419" />
+    <state width="1323" height="118" key="GridCell.Tab.0.left" timestamp="1579835412419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579835412419" />
+    <state width="1323" height="118" key="GridCell.Tab.0.right" timestamp="1579835412419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579835412419" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1579393480793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579393480793" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1579393480793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579393480793" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1579393480793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579393480793" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1579393480793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579393480793" />
+    <state x="254" y="15" key="SettingsEditor" timestamp="1579835217227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="15" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579835217227" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579835049820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579835049820" />
+  </component>
+</project>

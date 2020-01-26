@@ -1,0 +1,4 @@
+"D:\Alp\Programlar\C_C++_IDE\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -m64 -G "CodeBlocks - NMake Makefiles" "D:\Alp\C++ Alan\SocketProgramming"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Alp/C++ Alan/SocketProgramming/cmake-build-release-visual-studio-x64

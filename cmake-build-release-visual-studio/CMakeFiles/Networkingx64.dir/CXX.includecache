@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Alp/C++ Alan/SocketProgramming/resources/Client.cpp
+Client.h
+D:/Alp/C++ Alan/SocketProgramming/resources/Client.h
+
+D:/Alp/C++ Alan/SocketProgramming/resources/Client.h
+sdkddkver.h
+-
+conio.h
+-
+stdio.h
+-
+winsock2.h
+-
+windows.h
+-
+iostream
+-
+
