@@ -8,10 +8,10 @@ C++ Server And Client Side Socket API For Online Game Network Engine
 
 ## Visual Studio
 - C++ Desktop Development
--- C++ Profiler Toolkit
--- C++ Clang for Windows
--- C++ Cli Support
--- MSVC C++ x64/x86 Compiling Toolkits
+- C++ Profiler Toolkit
+- C++ Clang for Windows
+- C++ Cli Support
+- MSVC C++ x64/x86 Compiling Toolkits
 
 
 # Clion Settings
