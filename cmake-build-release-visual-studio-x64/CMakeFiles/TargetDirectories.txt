@@ -1,6 +1,0 @@
-D:/Alp/C++ Alan/SocketProgramming/cmake-build-release-visual-studio-x64/CMakeFiles/rebuild_cache.dir
-D:/Alp/C++ Alan/SocketProgramming/cmake-build-release-visual-studio-x64/CMakeFiles/SocketProgrammingx86.dir
-D:/Alp/C++ Alan/SocketProgramming/cmake-build-release-visual-studio-x64/CMakeFiles/Networkingx86.dir
-D:/Alp/C++ Alan/SocketProgramming/cmake-build-release-visual-studio-x64/CMakeFiles/SocketProgrammingx64.dir
-D:/Alp/C++ Alan/SocketProgramming/cmake-build-release-visual-studio-x64/CMakeFiles/Networkingx64.dir
-D:/Alp/C++ Alan/SocketProgramming/cmake-build-release-visual-studio-x64/CMakeFiles/edit_cache.dir
